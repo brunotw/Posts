@@ -10,7 +10,7 @@ backgroundImage: url('https://github.com/brunotw/Posts/blob/main/Backgrounds/Sli
 #  Title
 
 ---
-### Page 1
+### Maximum 9 pages
 
 ---
 ### Page 2
